@@ -8,8 +8,8 @@
 # Web-tiers URL, SQS queue names and S3 bucket names: 
 http://3.87.171.92:5000/ <br />
 
-create_s3_resource('cse546-team62-inputbucket') <br />
-create_s3_resource('cse546-team62-outputbucket') <br />
-create_sqs_resource('InputQueue') <br />
-create_sqs_resource('OutputQueue')
+Input Bucket: 'cse546-team62-inputbucket' <br />
+Output Bucket: 'cse546-team62-outputbucket' <br />
+Input Queue: 'InputQueue' <br />
+Output Queue: 'OutputQueue'
 
